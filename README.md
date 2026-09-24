@@ -165,6 +165,3 @@ reliably completes was the better deal.
 Training data and model weights are not included — the datasets belong to Kaggle and
 their respective publishers, and the LoRA checkpoints are reproducible from the notebooks.
 
-## License
-
-MIT — see [LICENSE](LICENSE).
